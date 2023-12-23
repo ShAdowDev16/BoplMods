@@ -1,1 +1,1 @@
-"ModNames123", "1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/ModNames.dll
+"ModNames123", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/ModNames.dll"
