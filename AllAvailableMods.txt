@@ -3,4 +3,4 @@
 "No Size Caps", 1.1.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/Mods/noSizeCaps.dll"
 "Reverse Gust", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/Mods/ReverseGust.dll"
 "No Sudden Death", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/Mods/NoSuddenDeath.dll"
-"Abilty Storm", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/Mods/abilitystorm.dll"
+"Abilty Storm", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/Mods/AbilityStorm.dll"
