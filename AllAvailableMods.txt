@@ -1,2 +1,3 @@
 "ModNames", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/ModNames.dll"
 "ArrowWall", 1.0.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/arrowWall.dll"
+"NoSizeCaps", 1.1.0", "https://github.com/ShAdowDev16/BoplMods/raw/main/noSizeCaps.dll"
