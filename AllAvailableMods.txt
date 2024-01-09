@@ -7,3 +7,4 @@
 "Speedy Players", 1.0.0", "https://github.com/MasterOogway6147/Bopl_Mods/releases/download/SpeedyPlayers/SpeedyPlayer.dll"
 "Low Gravity", 1.0.0", "https://github.com/MasterOogway6147/Bopl_Mods/releases/download/LowG/LowGravity.dll"
 "Infinite Platform Ability Size", 1.0.0", "https://github.com/000Diggity000/Infinite-Platformability-Size/releases/download/BoplBattle/InfinitePlatformabilitySize.dll"
+"Dummies", 1.0.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/Dummies/dummies.dll"
