@@ -1,3 +1,4 @@
+"No Cooldowns", 1.2.0", "https://github.com/Mangochicken13/ZeroAbilityCooldowns/releases/download/v1.2.0/InstantCooldowns.dll"
 "Mod Names", 1.0.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ModNames/ModNames.dll"
 "Arrow Wall", 1.0.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ArrowWall/arrowWall.dll"
 "No Size Caps", 1.1.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/NoSizeCaps_BugFix/noSizeCaps.dll"
