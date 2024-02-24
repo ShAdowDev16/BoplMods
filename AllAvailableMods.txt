@@ -12,4 +12,4 @@
 "Hidden Abilities", 1.2.0", "https://github.com/logan-m-price/bopl/raw/main/Hidden%20Abilities%20Mod/HiddenAbilitiesMod.dll"
 "NoSpikeDisappeare", 1.0.0", "https://github.com/TheRa4ina/BoplNoSpikeDisappear/raw/master/NoSpikeDisappear.dll"
 "OneAbilityUse", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/Infinite-Cooldowns-v1.0.0/InfiniteCooldowns.dll"
-"Guns Mods", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/raw/main/NOTMINE/BoplGuns.dll"
+
