@@ -12,4 +12,10 @@
 "Hidden Abilities", 1.2.0", "https://github.com/logan-m-price/bopl/raw/main/Hidden%20Abilities%20Mod/HiddenAbilitiesMod.dll"
 "NoSpikeDisappeare", 1.0.0", "https://github.com/TheRa4ina/BoplNoSpikeDisappear/raw/master/NoSpikeDisappear.dll"
 "OneAbilityUse", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/Infinite-Cooldowns-v1.0.0/InfiniteCooldowns.dll"
-
+"Speedy Drill", 1.0.0", "https://github.com/BanNinji/SpeedDrill/releases/download/SpeedyDrills-v1.0.0/SpeedyDrill.dll"
+"Bigger Black Holes", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/BiggerBlackHoles-v1.0.0/BiggerBlackHoles.dll"
+"Super Dash", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/BoplMod/SuperDash.dll"
+"No Grenade Self Destruct", 1.0.0", "https://github.com/zbuzzard/Bopl-Battle-Mods/releases/download/no-grenade-self-destruct-v1.0.0/nogrenadeselfdestruct.dll"
+"Slight Cooldowns", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/slight-cooldowns-v1.0.0/SlightCooldowns.dll"
+"Fast Missiles", 1.0.0", "https://github.com/BanNinji/Fast-Missile/releases/download/FastMissile/FastMissile.dll"
+"Anti Squish", 1.0.0", "https://github.com/zbuzzard/Bopl-Battle-Mods/releases/download/anti-squish-1.0.0/AntiSquish.dll"
