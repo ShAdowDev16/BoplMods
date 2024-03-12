@@ -26,3 +26,4 @@
 "No Ability Spawn", 1.0.0", "https://github.com/000Diggity000/NoAbiltySpawn/releases/download/bopl/NoAbiltySpawn.dll"
 "No Map Bounds", 1.0.0", "https://github.com/almafa64/almafa64-bopl-mods/releases/download/no_map_bounds/NoMapBounds-1.0.0.dll"
 "Atom Grenade", 1.0.1", "https://github.com/almafa64/almafa64-bopl-mods/releases/download/atom-grenade-1.0.1/AtomGrenade.dll"
+"BetterTimeStop", 1.0.0", "https://github.com/cccbbbc/BetterTimeStop/releases/download/BetterTimeStop/BetterTimeStop.dll"
