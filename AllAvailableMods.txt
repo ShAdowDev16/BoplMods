@@ -27,3 +27,5 @@
 "No Map Bounds", 1.0.0", "https://github.com/almafa64/almafa64-bopl-mods/releases/download/no_map_bounds/NoMapBounds-1.0.0.dll"
 "Atom Grenade", 1.0.1", "https://github.com/almafa64/almafa64-bopl-mods/releases/download/atom-grenade-1.0.1/AtomGrenade.dll"
 "BetterTimeStop", 1.0.0", "https://github.com/cccbbbc/BetterTimeStop/releases/download/BetterTimeStop/BetterTimeStop.dll"
+"No Clone Limit", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/NoCloneLimit/NoCloneLimit.dll"
+"Same Color", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/SameColor/SameColor.dll"
