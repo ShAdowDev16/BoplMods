@@ -1,4 +1,3 @@
-"Map Selector", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/map-selector-v1.0.0/MapPicker.dll"
 "No Cooldowns", 1.2.0", "https://github.com/Mangochicken13/ZeroAbilityCooldowns/releases/download/v1.2.0/InstantCooldowns.dll"
 "Mod Names", 1.1.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ModNames_bugfix/ModNames.dll"
 "Arrow Wall", 1.0.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ArrowWall/arrowWall.dll"
@@ -30,3 +29,4 @@
 "BetterTimeStop", 1.0.0", "https://github.com/cccbbbc/BetterTimeStop/releases/download/BetterTimeStop/BetterTimeStop.dll"
 "No Clone Limit", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/NoCloneLimit/NoCloneLimit.dll"
 "Same Color", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/SameColor/SameColor.dll"
+"Map Selector", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/map-selector-v1.0.0/MapPicker.dll"
