@@ -12,6 +12,7 @@
 "Insane Rock Bounce", 1.1.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/insane-rock-bounce-v1.1.0/InsaneRockBounce.dll"
 "Low Gravity", 1.0.0", "https://github.com/MasterOogway6147/Bopl_Mods/releases/download/LowG/LowGravity.dll"
 "Map Selector", 1.0.0", "https://github.com/AbstractMelon/BoplBattleMods/releases/download/map-selector-v1.0.0/MapPicker.dll"
+"Map Randomiser", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/MapRandomiser/MapRandomiser.dll"
 "Mod Names", 1.1.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ModNames_bugfix/ModNames.dll"
 "No Ability Spawn", 1.0.0", "https://github.com/000Diggity000/NoAbiltySpawn/releases/download/bopl/NoAbiltySpawn.dll"
 "No Clone Limit", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/NoCloneLimit/NoCloneLimit.dll"
