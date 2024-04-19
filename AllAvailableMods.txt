@@ -15,7 +15,7 @@
 "Map Randomiser", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/MapRandomiser/MapRandomiser.dll"
 "Mod Names", 1.1.0", "https://github.com/WackyModer/Bopl_Mods/releases/download/ModNames_bugfix/ModNames.dll"
 "No Ability Spawn", 1.0.0", "https://github.com/000Diggity000/NoAbiltySpawn/releases/download/bopl/NoAbiltySpawn.dll"
-"No Clone Limit", 1.0.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/NoCloneLimit/NoCloneLimit.dll"
+"No Clone Limit", 1.1.0", "https://github.com/mathlover3/bopl-battle-mods/releases/download/NoCloneLimit_1.1/NoCloneLimit.dll"
 "No Cooldowns", 1.2.0", "https://github.com/Mangochicken13/ZeroAbilityCooldowns/releases/download/v1.2.0/InstantCooldowns.dll"
 "No Grenade Self Destruct", 1.0.0", "https://github.com/zbuzzard/Bopl-Battle-Mods/releases/download/no-grenade-self-destruct-v1.0.0/nogrenadeselfdestruct.dll"
 "No Map Bounds", 1.0.0", "https://github.com/almafa64/almafa64-bopl-mods/releases/download/no_map_bounds/NoMapBounds-1.0.0.dll"
